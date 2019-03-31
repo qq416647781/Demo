@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<applications>
+<app name="privateKey">
+	<enccert-filepath>encypt.cer</enccert-filepath>
+	<enccert-password>11111111</enccert-password>
+	<signcert-filepath>sign.pfx</signcert-filepath>
+	<signcert-password>11111111</signcert-password>
+</app>
+</applications>
